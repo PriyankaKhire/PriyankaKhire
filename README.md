@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋🏽 I am Priyanka 👩🏽‍💻
+---
+I am a goofy 🤓 backend software developer currently reciding in Seattle WA. <br/>
+In my free time I love listening to music, travelling and playing with my kitties. <br/>
+Oh ! and I am weirdly obsessed with ReadMe's 🙃
 
-<!--
-**PriyankaKhire/PriyankaKhire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🎶 Stuff I am jamming to 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1298622565&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-Here are some ideas to get you started:
+---
+[![Priyanka's github activity graph](https://activity-graph.herokuapp.com/graph?username=PriyankaKhire&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
