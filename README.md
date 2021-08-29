@@ -1,7 +1,7 @@
 👋🏽 Hey there, I am Priyanka
 ---
 I am a goofy 🤓 backend software developer currently reciding in Seattle WA. <br/>
-In my free time I love listening to music, travelling and playing with my kitties. <br/>
+In my free time I love listening to music, travelling and collecting coins 🤑. <br/>
 
 ---
 ## 🎶 Stuff I am jamming to 
